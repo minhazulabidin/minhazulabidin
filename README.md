@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Minhajul Abedin</h1>
+<h1 align="center">Hi, I'm Minhajul Abedin</h1>
 <h3 align="center">A passionate front-end and back-end web designer and developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400px" src="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media">
+<img align="right" alt="coding" width="400px" src="https://dribbble.com/shots/4502924-Python-developer-animation/attachments/10432197?mode=media" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=introtoxicxxl&label=Profile%20views&color=0e75b6&style=flat" alt="introtoxicxxl" /> </p>
 

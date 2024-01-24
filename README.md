@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=introtoxicxxl&label=Profile%20views&color=0e75b6&style=flat" alt="introtoxicxxl" /> </p>
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React, Node.Js**
 

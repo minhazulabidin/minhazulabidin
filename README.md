@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi, I'm Minhajul Abedin</h1>
-<h3 align="center">Love to take myself beyond my capability</h3>
+<p align="center">Love to take myself beyond my capability</p>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=introtoxicxxl&label=Profile%20views&color=0e75b6&style=flat" alt="introtoxicxxl" /> </p>

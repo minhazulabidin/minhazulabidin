@@ -4,11 +4,10 @@
 <h1 align="center">Hi, I'm Minhajul Abedin</h1>
 <p align="center">Front-End Developer | Problem Solver | Creative Thinker.</p>
 </br>
-<img align="right" alt="coding" width="450" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+<img align="right" alt="coding" width="450" height="250" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 </br>
 </br>
 <p align=''>I am a passionate Front-End Developer with over 3 years of experience specializing in React.js. Since 2022, I’ve been committed to building high-performance, responsive websites that integrate functionality and design seamlessly. My work isn’t just about building websites; it's about delivering digital solutions that align with user expectations and drive business goals.</p>
-</br>
 </br>
 </br>
 

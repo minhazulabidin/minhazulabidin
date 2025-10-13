@@ -1,7 +1,8 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
-<img align="right" alt="coding" width="450" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+
 <h1 align="center">Hi, I'm Minhajul Abedin</h1>
+<img align="right" alt="coding" width="450" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 <p align="center">Front-End Developer | Problem Solver | Creative Thinker.</p>
 <p>A passionate frontend developer from Bangladesh.I have designed 20+ websites, combining creativity and precision to build clean,</br> user-friendly, and fast digital experiences. I enjoy solving problems and turning ideas into designs that look great and work smoothly</p>
 </br>

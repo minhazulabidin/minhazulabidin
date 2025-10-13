@@ -8,13 +8,12 @@
 <img align="right" alt="coding" width="450" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 
-- 🌱 I’m currently learning **Next.js, React Native**
-
-- 💬 Ask me about **Web Development, App Development, and Your Next Great Idea Which Wanna Turning Into Reality.**
-
-- 📫 How to reach me **minhajulabedin648@gmail.com**
-
-- ⚡ Fun fact **Photography Is My Second Hobby.**
+- 🔭 I’m currently working on building web applications using JavaScript, React, and Node.js.
+- 🌱 I’m currently learning more about backend technologies, especially databases like MongoDB.
+- 📱 I'm also learning right now React Native for Mobile Applications.
+- 💬 Ask me about JavaScript, React, or anything related to web development and ** Your Next Great Idea Which Wanna Turning Into Reality.**
+- 📫 How to reach me vai email: **minhajulabedin648@gmail.com** or [Linkedin](https://www.linkedin.com/in/minhazulabidin/)
+- ⚡ Fun fact **Photography Is My Second Hobby. also exploring different cultures, their food through travel**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhazulabidin&label=Profile%20views&color=0e75b6&style=flat" alt="minhazulabidin" /> </p>
 </br>
 
@@ -60,6 +59,10 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> &nbsp; &nbsp;
 
 </p>
+
+***
+<h3 align="left">Let's Conect</h3>
+<p>Thanks for visiting my GitHub profile! Feel free to explore my repositories and projects. If you have any questions, or just talk about coding or life don't hesitate to reach out.</p>
 
 ***
 

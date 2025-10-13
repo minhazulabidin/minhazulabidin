@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="coding" width="450" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+
 
 
 - 🔭 I’m currently working on building web applications using JavaScript, React, and Node.js.
@@ -14,7 +14,7 @@
 - 💬 Ask me about JavaScript, React, or anything related to web development and ** Your Next Great Idea Which Wanna Turning Into Reality.**
 - 📫 How to reach me vai email: **minhajulabedin648@gmail.com** or [Linkedin](https://www.linkedin.com/in/minhazulabidin/)
 - ⚡ Fun fact **Photography Is My Second Hobby. also exploring different cultures, their food through travel**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhazulabidin&label=Profile%20views&color=0e75b6&style=flat" alt="minhazulabidin" /> </p>
 </br>
 
 ---

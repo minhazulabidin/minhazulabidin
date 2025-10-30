@@ -1,18 +1,21 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-
 
 <h1 align="center">Hi, I'm Minhajul Abedin</h1>
 <p align="center">Front-End Developer | Problem Solver | Creative Thinker.</p>
 </br>
-<img align="right" alt="coding" width="420" height="250" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-</br>
-</br>
-<p>I am a passionate Front-End Developer with over 3 years of experience specializing in React.js. Since 2022, I’ve been committed to building high-performance, responsive websites that integrate functionality and design seamlessly. My work isn’t just about building websites; it's about delivering digital solutions that align with user expectations and drive business goals.</p>
-</br>
-</br>
+<div align="center">
+  <img alt="coding" width="420" height="250" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+  </br></br>
+  <p align="center" style="max-width: 700px;">
+    I believe in the power of authenticity and take a solution-oriented approach to every challenge.
+    As a full-stack developer, I thrive on bridging the gap between functionality and design, ensuring
+    that every project is not just efficient but also user-friendly. With expertise in React, Next.js,
+    Node.js, and TypeScript, I’m passionate about building scalable, high-performance applications.
+    I constantly explore new technologies, seeking innovation and meaningful impact in every line of code.
+  </p>
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
----
 - 🔭 I’m currently working on building web applications using JavaScript, React, and Node.js.
 - 🌱 I’m currently learning more about backend technologies, especially databases like MongoDB.
 - 📱 I'm also learning right now React Native for Mobile Applications.
@@ -20,11 +23,7 @@
 - 📫 How to reach me via email: **minhajulabedin648@gmail.com** or [Linkedin](https://www.linkedin.com/in/minhazulabidin/)
 - ⚡ Fun fact **Photography Is My Second Hobby. also exploring different cultures, their food through travel**
 
-</br>
-
----
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/> Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/minhazulabidin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhazulabidin" height="30" width="40" /></a> 
@@ -33,48 +32,25 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhazulabidin&label=Profile%20views&color=0e75b6&style=flat" alt="minhazulabidin" /> </p>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
- </br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhazulabidin" alt="minhazulabidin" /></a> </p>
 
----
+<h3 align="left"> <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="20"/> Things I code with</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://camo.githubusercontent.com/a8f8b5b35c6047278d61ef0ff093fdc4887c3db221e9d90c173e3710ce50be4a/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d68746d6c2c6373732c6a732c74732c72656163742c6e6578746a732c7461696c77696e642c6672616d65722c72616469782c6669676d612c6e6f74696f6e2c7265616374726f757465722c6d61726b646f776e2c62696f6d652c6e6f64656a732c657870726573736a732c72656469732c706f737467726573716c2c6d6f6e676f64622c707269736d612c6472697a7a6c652c626574746572617574682c747572626f7265706f2c726561637471756572792c7a757374616e642c6578706f2c67726f712c73656e7472792c706e706d2c62756e2c6769742c6769746875622c676974687562616374696f6e732c76657263656c2c646f636b65722c6177732c636c6f7564666c6172652c64656269616e2c626173682c707974686f6e2c63267468656d653d6461726b267469746c65733d74727565" alt="html5" /> &nbsp; &nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp; &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> &nbsp; &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express" width="40" height="40"/> &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> &nbsp; &nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> &nbsp; &nbsp; </br>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> &nbsp; &nbsp; 
- <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> &nbsp; &nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw0_yhGEmhIF8QjL7poBJqowjSlIw0kKKOJA&s" width="40" height="40"/> &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> &nbsp; &nbsp;
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp; &nbsp;
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> &nbsp; &nbsp; 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> &nbsp; &nbsp; 
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> &nbsp; &nbsp;
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="photoshop" width="40" height="40"/> &nbsp; &nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> &nbsp; &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> &nbsp; &nbsp;
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-***
+  <img height="260" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazulabidin&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+
+  <img height="260" width="470" src="https://gh-readme-profile.vercel.app/api?username=minhazulabidin&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Stats" />
+
+  <img height="260" width="270" src="https://streak-stats.demolab.com/?user=minhazulabidin&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <h3 align="left">Let's Conect</h3>
-<p>Thanks for visiting my GitHub profile! Feel free to explore my repositories and projects. If you have any questions, or just talk about coding or life don't hesitate to reach out.</p>
-
-***
-
-<p><img width="260" height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhazulabidin&show_icons=true&locale=en&layout=compact" alt="minhazulabidin" /></p>
-
-<p><img width="260" height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=minhazulabidin&show_icons=true&locale=en" alt="minhazulabidin" /></p>
-
-<p><img width="260" height="150" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=minhazulabidin&" alt="minhazulabidin" /></p>
+<p>Thanks for visiting my GitHub profile! You can explore my repositories and projects. If you have any questions or want to talk about coding or life, don't hesitate to reach out.</p>

@@ -1,7 +1,6 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img  alt="coding" width="750" height="320" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-  
 </div>
 <h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
   <img 
@@ -11,7 +10,7 @@
   />
 </h1>
 
-<p align="center">Full Stack Developer | Problem Solver | Creative Thinker</p>
+<h4 align="center">Full Stack Developer | Problem Solver | Creative Thinker</h4>
 
 
 <!-- Intro Section -->

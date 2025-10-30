@@ -1,3 +1,8 @@
+
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img  alt="coding" width="750" height="320" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+  
+</div>
 <h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3000&pause=999999&color=F7797D,FEAC5E,4BC0C8&center=false&vCenter=true&repeat=false&width=430&lines=Hi+,+I'm+Minhajul+Abedin" 
@@ -10,11 +15,7 @@
 
 
 <!-- Intro Section -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <img alt="coding" width="550" height="320" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-  
-  <br/>
-   <br/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">  
   
   <p style="max-width: 400px; text-align: justify;">
     I believe in the power of authenticity and take a solution-oriented approach to every challenge.
@@ -66,11 +67,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+<br/>
+<br/>
+
 <img src="https://camo.githubusercontent.com/a8f8b5b35c6047278d61ef0ff093fdc4887c3db221e9d90c173e3710ce50be4a/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d68746d6c2c6373732c6a732c74732c72656163742c6e6578746a732c7461696c77696e642c6672616d65722c72616469782c6669676d612c6e6f74696f6e2c7265616374726f757465722c6d61726b646f776e2c62696f6d652c6e6f64656a732c657870726573736a732c72656469732c706f737467726573716c2c6d6f6e676f64622c707269736d612c6472697a7a6c652c626574746572617574682c747572626f7265706f2c726561637471756572792c7a757374616e642c6578706f2c67726f712c73656e7472792c706e706d2c62756e2c6769742c6769746875622c676974687562616374696f6e732c76657263656c2c646f636b65722c6177732c636c6f7564666c6172652c64656269616e2c626173682c707974686f6e2c63267468656d653d6461726b267469746c65733d74727565" alt="skills" width="100%"/>
 
 <br/>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> 
+
+<br/>
+<br/> 
 
 <!-- Stats Section -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">

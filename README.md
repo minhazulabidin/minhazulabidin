@@ -11,7 +11,7 @@
   />
 </h1>
 
-<p align="center">Front-End Developer | Problem Solver | Creative Thinker</p>
+<p align="center">Full Stack Developer | Problem Solver | Creative Thinker</p>
 
 
 <!-- Intro Section -->
@@ -27,7 +27,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
+<h3>A Full Stack Developer</h3>
 <ul>
   <li>🔭 I’m currently working on building web applications using JavaScript, React, and Node.js.</li>
   <li>🌱 I’m currently learning more about backend technologies, especially databases like MongoDB.</li>
@@ -38,7 +38,6 @@
 </ul>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 <h3>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30"/>
   Connect with me:
 </h3>
 
@@ -64,9 +63,6 @@
   <img src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="20"/>
   Things I code with
 </h3>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
 <br/>
 

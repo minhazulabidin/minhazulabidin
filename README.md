@@ -1,6 +1,6 @@
 <h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 8px;">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=3000&pause=999999&color=F7797D,FEAC5E,4BC0C8&center=false&vCenter=true&repeat=false&width=430&lines=Hi+,+I'm+Minhajul+Abedin" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=36&duration=7000&pause=999999&color=F7797D,FEAC5E,4BC0C8&center=false&vCenter=true&repeat=false&width=430&lines=Hi+,+I'm+Minhajul+Abedin" 
     alt="Minhajul Abedin"
     style="vertical-align: middle; position: relative; top: 4px;"
   />

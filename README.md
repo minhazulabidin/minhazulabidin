@@ -17,11 +17,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">  
   
   <p style="max-width: 400px; text-align: justify;">
-    I believe in the power of authenticity and take a solution-oriented approach to every challenge.
-    As a full-stack developer, I thrive on bridging the gap between functionality and design, ensuring
-    that every project is not just efficient but also user-friendly. With expertise in React, Next.js,
-    Node.js, and TypeScript, I’m passionate about building scalable, high-performance applications.
-    I constantly explore new technologies, seeking innovation and meaningful impact in every line of code.
+   I'm Minhazul Abidin, a proactive full-stack developer passionate about creating dynamic web experiences. From frontend to backend, I thrive on solving complex problems with clean, efficient code. My expertise spans React, Next.js, and Node.js, and I'm always eager to learn more.
   </p>
 </div>
 

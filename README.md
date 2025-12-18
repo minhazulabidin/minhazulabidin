@@ -17,7 +17,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">  
   
   <p style="max-width: 400px; text-align: justify;">
-   I'm Minhazul Abidin, a proactive full-stack developer passionate about creating dynamic web experiences. From frontend to backend, I thrive on solving complex problems with clean, efficient code. My expertise spans React, Next.js, and Node.js, and I'm always eager to learn more.
+   I'm Minhazul Abidin, a proactive full-stack developer passionate about creating dynamic websites and web applications. From frontend to backend, I thrive on solving complex problems with clean, efficient code. My expertise spans React, Next.js, and Node.js, and I'm always eager to learn more.
   </p>
 </div>
 
@@ -83,6 +83,6 @@
 
 <h3 align="left">Let's Connect</h3>
 <p>
-  Thanks for visiting my GitHub profile! You can explore my repositories and projects.
-  If you have any questions or want to talk about coding or life, don't hesitate to reach out.💡 Let’s connect and build something great together! 🚀
+  I believe in waking up each day eager to make a difference! Thanks for visiting my GitHub profile! You can go ahead and explore my repositories and projects.
+  If you have any questions or would like to discuss coding or life, please don't hesitate to reach out.💡 Let’s connect and build something great together! 🚀
 </p>

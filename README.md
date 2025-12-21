@@ -28,7 +28,7 @@
   <li>🌱 I’m currently learning more about backend technologies, especially databases like MongoDB.</li>
   <li>📱 I'm also learning React Native for Mobile Applications.</li>
   <li>💬 Ask me about JavaScript, React, or anything related to web development and <b>Your Next Great Idea Which Wanna Turning Into Reality.</b></li>
-  <li>📫 How To Reach me: <b>minhajulabedin648@gmail.com</b> or <a href="https://www.linkedin.com/in/minhazulabidin/">LinkedIn</a>.</li>
+  <li>📫 How To Reach me: <a href="minhajulabedin648@gmail.com"><b>minhajulabedin648@gmail.com</b> </a> or <a href="https://www.linkedin.com/in/minhazulabidin/">LinkedIn</a>.</li>
   <li>⚡ Fun fact: <b>Photography Is My Second Hobby. also exploring different cultures, their food through travel</li>
 </ul>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>

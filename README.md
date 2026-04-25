@@ -40,6 +40,7 @@
   <a href="https://linkedin.com/in/minhazulabidin" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
+    &nbsp;&nbsp;&nbsp;
   <a href="https://fb.com/minhajul.abedin.minhaz0" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>

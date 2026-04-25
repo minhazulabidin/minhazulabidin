@@ -36,18 +36,25 @@
   Connect with me:
 </h3>
 
-<p align="left" style="display: flex; gap: 12px;">
-  <a href="https://linkedin.com/in/minhazulabidin" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/minhajul.abedin.minhaz0" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/minhaz_xxl" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/minhazulabidin" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://fb.com/minhajul.abedin.minhaz0" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/minhaz_xxl" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=minhazulabidin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />

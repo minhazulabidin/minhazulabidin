@@ -67,5 +67,6 @@
 <h3 align="left">Let's Connect</h3>
 <p>
   I believe in waking up each day eager to make a difference! Thanks for visiting my GitHub profile! You can go ahead and explore my repositories and projects.
-  If you have any questions or would like to discuss coding or life, please don't hesitate to reach out.💡 Let’s connect and build something great together! 🚀
+  If you have any questions or would like to discuss coding or life, please don't hesitate to reach out.
+  <br/> 💡 Let’s connect and build something great together! 🚀
 </p>

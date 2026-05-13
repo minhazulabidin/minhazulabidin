@@ -63,6 +63,31 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> 
 
 <br/>
+<br/>
+
+
+###
+
+<h3 align="left">
+  <img 
+    src="https://cdn.dribbble.com/userupload/19770734/file/original-8d42fe46c31e2eccae4ebb14816cf8ed.gif"
+    width="25px"
+    style="vertical-align: middle;"
+  />
+  <span style="vertical-align: middle;">My Stats :</span>
+</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=minhazulabidin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> 
+
+<br/>
 
 <h3 align="left">Let's Connect</h3>
 <p>

@@ -80,7 +80,8 @@
 ###
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=minhazulabidin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ <img src="https://streak-stats.demolab.com?user=minhazulabidin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
+  height="220" " height="220" alt="streak graph"  />
 </div>
 
 ###

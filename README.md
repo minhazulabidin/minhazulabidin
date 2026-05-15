@@ -80,8 +80,10 @@
 ###
 
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=minhazulabidin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
-  height="220" " height="220" alt="streak graph"  />
+ <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=minhazulabidin&theme=tokyonight&hide_border=true&border_radius=12&card_width=800&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="minhazulabidin"
+  />
 </div>
 
 ###
